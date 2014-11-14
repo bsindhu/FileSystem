@@ -4,7 +4,7 @@
 * contains its file name and the corresponding inode number.It receives the maximum number of 
 * inodes to be created and keeps track of which inode numbers are in use.
 *
-*	Sindhuri Bolisetty and David Lambert
+*	Sindhuri Bolisetty 
 *	CSS 430
 *	Final Project
 *
