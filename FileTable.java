@@ -1,15 +1,13 @@
 /**
  * FileTable class
  *
- *	Sindhuri Bolisetty and David Lambert
+ *	Sindhuri Bolisetty 
  *	CSS 430
  *	Final Project
  *
  * @author Sindhuri Bolisetty
  * @version12/10/2013
  * 
- * Modified: David Lambert
-* added Inode array, array synchronization, comments
  */
 
 import java.util.*;
