@@ -11,7 +11,6 @@
 * @author Sindhuri Bolisetty
 * @version 12/6/2013
 * 
-* added Inode array, array synchronization, comments
 */
 
 import java.util.*;
