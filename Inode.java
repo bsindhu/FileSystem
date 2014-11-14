@@ -1,12 +1,12 @@
 /** Inode.java
 *
-* Sindhuri Bolisetty and David Lambert
+* Sindhuri Bolisetty 
 * CSS 430
 * Final Project
 *
 * @author Sindhuri Bolisetty
 * @version 12/10/2013
-* added array, array synchronization, comments
+* 
 */
 
 import java.util.*;
